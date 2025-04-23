@@ -10,5 +10,7 @@ CSS
   Lines 17 - 20: Added ".cards img" to display the pictures
 
 JS
-  Whole
+  Whole Document
+  I followed the example given by the Instructor, JSFiddle, MDN Java, and the How-To-For-Dummies book
+  to help refine the js laylout 
   
