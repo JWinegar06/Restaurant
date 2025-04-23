@@ -39,6 +39,4 @@ fetch(URL)
       cards.appendChild(card);
     }
   })
-  .catch((error) => {
-    console.error("Error fetching the data: ", error);
-  });
+ 
