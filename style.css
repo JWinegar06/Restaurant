@@ -1,0 +1,20 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .card {
+    border: 10px groove steelblue;
+    padding: 1rem;
+    width: 250px;
+    box-shadow: 0 0 10px steelblue;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .cards img {
+    max-width: 100%;
+    height: auto;
+  }
